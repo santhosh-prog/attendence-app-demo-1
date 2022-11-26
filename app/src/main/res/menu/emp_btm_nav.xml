@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/EmployeeHome"
+        android:title="Home"
+
+        android:icon="@drawable/home"/>
+
+    <item android:id="@+id/EmpNotification"
+        android:title="notification"
+        android:icon="@drawable/notification"/>
+
+    <item android:id="@+id/EmpRequests"
+        android:title="requests"
+        android:icon="@drawable/message"/>
+
+    <item android:id="@+id/EmpSettings"
+        android:title="settings"
+        android:icon="@drawable/settings"/>
+
+</menu>
